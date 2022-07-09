@@ -52,3 +52,4 @@ console.log('shoe count after a new pair:', me.shoeCount);
 */
 me.favoriteColor = 'green';
 console.log(me);
+//console.log(me.favoriteColor); //-->green
